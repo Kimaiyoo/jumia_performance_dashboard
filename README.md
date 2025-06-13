@@ -22,7 +22,7 @@ This Excel-based dashboard provides a visual and interactive summary of product 
 
 ## 📁 File
 
-- `Product_Dashboard.xlsx` — Main Excel dashboard file.
+- `Jumia_Product_Dashboard.xlsx` — Main Excel dashboard file.
 
 ## 📌 How to Use
 
